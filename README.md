@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mayank Meghwal</h1>
+<h1 align="center">👋 Hi there, I'm Mayank Meghwal</h1>
 
 <div align="center">
 
@@ -8,17 +8,17 @@
 
 ---
 
-## About Me  
+## 👦🏻👨🏻‍💻👨🏻‍🔬 About Me  
 
 **B.Tech in Computer Science** | Engineering College Ajmer  
 Passionate **Data Scientist & AI Engineer** specializing in **Machine Learning, Deep Learning, NLP, and LLMs**  
-Interested in **AI-powered applications, MLOps pipelines, and full-stack development**  
-Winner - MNIT Jaipur Hackathon 2024 | Finalist - Smart India Hackathon 2024  
+Love working on **AI-powered applications, MLOps pipelines, and full-stack development**  
+**Winner - MNIT Jaipur Hackathon 2024** | **Finalist - Smart India Hackathon 2024**  
 Exploring **AI for social good**, **data-driven decision-making**, and **intelligent automation**
 
 ---
 
-## What I’m Currently Working On  
+## 💼 What I’m Currently Working On  
 - **AI-Powered Personal Assistant** using LLMs, LangChain & Speech Recognition  
 - **Deepfake Detection** using CNN, RNN, and Adversarial Learning  
 - **MLOps Pipelines** with Docker, Kubernetes, Streamlit & Azure  
@@ -26,7 +26,7 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 
 ---
 
-## Skills & Tools  
+## 💻 Skills & Tools  
 
 ### Programming & Core Concepts
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,33 +70,33 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 
 ---
 
-## Featured Projects  
+## 🧩 Featured Projects  
 
-[**AI Echo – Sentiment Analysis**](https://github.com/itz-Mayank/AI_Echo)  
-Transformer-based sentiment analysis model using **TF-IDF, Naïve Bayes, and LLMs**.  
+🔹 [**AI Echo – Sentiment Analysis**](https://github.com/itz-Mayank/AI_Echo)  
+Built a transformer-based sentiment analysis model using **TF-IDF, Naïve Bayes, and LLMs**.  
 Deployed via **Streamlit** for real-time text sentiment insights.
 
-[**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
-Deep learning model for spoof detection in facial authentication systems.  
+🔹 [**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
+Developed a **deep learning model** for spoof detection in facial authentication systems.  
 Achieved **98% accuracy**, enhancing biometric security.
 
-[**Chest X-Ray Diagnostics**](https://github.com/itz-Mayank/Chest-X-Ray-Diagnostics)  
+🔹 [**Chest X-Ray Diagnostics**](https://github.com/itz-Mayank/Chest-X-Ray-Diagnostics)  
 CNN-based model for **COVID-19 detection** using X-ray images with real-time inference.
 
 ---
 
-## Achievements
-- Winner – MNIT Jaipur Hackathon 2024  
-- Smart India Hackathon Finalist 2024  
-- Certified in Advanced Programming & Data Science – IITM Pravartak  
-- Data Science Intern – Infotact Solutions (2024)  
+## 🏆 Achievements
+- **Winner – MNIT Jaipur Hackathon 2024**  
+- **Smart India Hackathon Finalist 2024**  
+- **Certified in Advanced Programming & Data Science – IITM Pravartak**  
+- **Data Science Intern – Infotact Solutions (2024)**  
 
 ---
 
-## Connect With Me  
+## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayank-meghwal-2b4856205/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmeg207@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayank-meghwal-2b4856205/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmeg207@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itz-Mayank)
 
 ---
@@ -110,4 +110,4 @@ CNN-based model for **COVID-19 detection** using X-ray images with real-time inf
 
 ---
 
-*"Turning data into intelligence and ideas into innovation."*
+💡 *“Turning data into intelligence and ideas into innovation.”*
