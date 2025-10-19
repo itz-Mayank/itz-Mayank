@@ -8,7 +8,7 @@
 
 ---
 
-## 👦🏻👨🏻‍💻👨🏻‍🔬 About Me  
+## 👨🏻‍💻 About Me  
 
 **B.Tech in Computer Science** | Engineering College Ajmer  
 Passionate **Data Scientist & AI Engineer** specializing in **Machine Learning, Deep Learning, NLP, and LLMs**  
