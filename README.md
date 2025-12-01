@@ -1,9 +1,15 @@
 <h1 align="center">👋 Hi there, I'm Mayank Meghwal</h1>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=00FFFF&size=24&center=true&vCenter=true&width=800&height=60&lines=Data+Scientist+%7C+AI+%26+ML+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+%26+Scalable+Applications;Always+Learning,+Always+Innovating!)
-
 </div>
 
 ---
