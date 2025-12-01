@@ -14,16 +14,6 @@
 
 </div>
 
------
-
-<br/>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
-
------
-
 ---
 
 ## 👨🏻‍💻 About Me  
@@ -112,6 +102,12 @@ CNN-based model for **COVID-19 detection** using X-ray images with real-time inf
 ---
 
 ## 🌐 Connect With Me  
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayank-meghwal-2b4856205/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankmeg207@gmail.com)
