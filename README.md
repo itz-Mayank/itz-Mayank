@@ -27,6 +27,7 @@ Love working on **AI-powered applications, MLOps pipelines, and full-stack devel
 **Winner - MNIT Jaipur Hackathon 2024** | **Finalist - Smart India Hackathon 2024**  
 Exploring **AI for social good**, **data-driven decision-making**, and **intelligent automation**
 
+---
 
 ## 💼 What I’m Currently Working On  
 - **AI-Powered Personal Assistant** using LLMs, LangChain & Speech Recognition  
