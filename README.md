@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 About Me  
 
-<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" height="200px" align="right" alt="A professional animation coder gif"/>
+<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="250px" height="100px" align="right" alt="A professional animation coder gif"/>
 
 
 **B.Tech in Computer Science** | Engineering College Ajmer  
