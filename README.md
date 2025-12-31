@@ -83,9 +83,9 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 
 ## 🧩 Featured Projects  
 
-🔹 [**AI Echo – Sentiment Analysis**](https://github.com/itz-Mayank/AI_Echo)  
-Built a transformer-based sentiment analysis model using **TF-IDF, Naïve Bayes, and LLMs**.  
-Deployed via **Streamlit** for real-time text sentiment insights.
+🔹 [**Network Security**](https://github.com/itz-Mayank/ML_Project_2)  
+This project is a production-ready Network Security **ML pipeline** that automates data ingestion, validation, transformation, model training, evaluation, and deployment using MLOps best practices.
+It ensures data quality, handles drift, selects the best model, and deploys the system on AWS using Docker and CI/CD.
 
 🔹 [**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
 Developed a **deep learning model** for spoof detection in facial authentication systems.  
