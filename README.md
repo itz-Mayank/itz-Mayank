@@ -128,4 +128,4 @@ CNN-based model for **COVID-19 detection** using X-ray images with real-time inf
 
 ---
 
-💡 *“Turning data into intelligence and ideas into innovation.”*
+💡 *“Turning data into intelligence and ideas into innovation.”* 
