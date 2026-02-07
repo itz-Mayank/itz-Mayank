@@ -125,7 +125,7 @@ CNN-based model for **COVID-19 detection** using X-ray images with real-time inf
 ![Profile Views](https://komarev.com/ghpvc/?username=itz-Mayank&color=0bd6d6&style=flat-square)
 
 </div>
-
+ 
 --- 
 
 💡 *“Turning data into intelligence and ideas into innovation.”* 
