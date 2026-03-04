@@ -89,12 +89,10 @@ It ensures  quality, handles drift, selects the best model, and deploys the syst
 
 
 🔹 [**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
-⇀ Implemented a CNN-based multimodal biometric authentication model using TensorFlow, OpenCV, and dlib with facial landmark extraction.
-⇀ Achieved **97.8% spoof detection accuracy** and reduced inference latency by 18% via optimized preprocessing pipeline.
+⇀ Implemented a CNN-based multimodal biometric authentication model using TensorFlow, OpenCV, and dlib with facial landmark extraction. Achieved **97.8% spoof detection accuracy** and reduced inference latency by 18% via optimized preprocessing pipeline.
 
 🔹 [**Chest X-Ray Diagnostics**](https://github.com/itz-Mayank/Chest-X-Ray-Diagnostics)  
-⇀ Trained a ResNet50 transfer learning model on 10,000+ X-ray images with augmentation and fine-tuning strategies.
-Achieved 96.7% accuracy and deployed optimized TensorFlow Lite inference via Streamlit on Azure for real-time
+⇀ Trained a ResNet50 transfer learning model on 10,000+ X-ray images with augmentation and fine-tuning strategies. Achieved 96.7% accuracy and deployed optimized TensorFlow Lite inference via Streamlit on Azure for real-time
 classification.
 
 
