@@ -85,7 +85,7 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 
 🔹 [**Network Security**](https://github.com/itz-Mayank/ML_Project_2)  
 ⇀ This project is a production-ready Network Security **ML pipeline** that automates data ingestion, validation, transformation, model training, evaluation, and deployment using MLOps best practices.
-⇀ It ensures  quality, handles drift, selects the best model, and deploys the system on AWS using Docker and CI/CD.
+It ensures  quality, handles drift, selects the best model, and deploys the system on AWS using Docker and CI/CD.
 
 
 🔹 [**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
@@ -94,7 +94,7 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 
 🔹 [**Chest X-Ray Diagnostics**](https://github.com/itz-Mayank/Chest-X-Ray-Diagnostics)  
 ⇀ Trained a ResNet50 transfer learning model on 10,000+ X-ray images with augmentation and fine-tuning strategies.
-⇀ Achieved 96.7% accuracy and deployed optimized TensorFlow Lite inference via Streamlit on Azure for real-time
+Achieved 96.7% accuracy and deployed optimized TensorFlow Lite inference via Streamlit on Azure for real-time
 classification.
 
 
