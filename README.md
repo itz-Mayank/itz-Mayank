@@ -87,6 +87,7 @@ Exploring **AI for social good**, **data-driven decision-making**, and **intelli
 ⇀ This project is a production-ready Network Security **ML pipeline** that automates data ingestion, validation, transformation, model training, evaluation, and deployment using MLOps best practices.
 ⇀ It ensures  quality, handles drift, selects the best model, and deploys the system on AWS using Docker and CI/CD.
 
+
 🔹 [**Face Liveness Detection**](https://github.com/itz-Mayank/Face-liveness)  
 ⇀ Implemented a CNN-based multimodal biometric authentication model using TensorFlow, OpenCV, and dlib with facial landmark extraction.
 ⇀ Achieved **97.8% spoof detection accuracy** and reduced inference latency by 18% via optimized preprocessing pipeline.
